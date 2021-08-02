@@ -2,3 +2,4 @@ Bencher-Scenarios-Pragmas-*
 .build
 *~
 nytprof*
+.DS_Store
